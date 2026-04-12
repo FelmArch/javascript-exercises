@@ -18,6 +18,8 @@ const age = thisYear - birthYear;
 
 const greeting = "Hello! My name is " + fullName + " and I am " + age + " years old.";
 
+// para imprimir
+console.log(greeting);
 
 // Do not change this
 module.exports = {
